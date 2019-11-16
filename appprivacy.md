@@ -15,7 +15,7 @@ Stash Box (简称“App”)由 lingyu0 开发并维护，在提供用户一个�
 * [友盟的隐私政策](https://www.umeng.com/policy)
 
 #### 涉及权限解释
-> READ_PHONE_STATE 电话权限  
+> READ_PHONE_STATE 手机信息权限  
 
 友盟需要该权限，属于 Android 敏感权限，不过用户不授权也可以工作。  
 
