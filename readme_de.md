@@ -2,7 +2,8 @@
 Chat Assistant (im Folgenden "App" genannt) wurde von lingyu0 entwickelt und gewartet und ist sich der Bedeutung des Schutzes personenbezogener Daten und Ihrer Privatsphäre bewusst, während es den Benutzern eine gute Benutzererfahrung bietet.
 
 #### Personenbezogene Daten
-Wir sammeln keine personenbezogenen Daten und geben die vom Benutzer zur Verfügung gestellten personenbezogenen Daten bei Feedback nicht an Dritte weiter.
+##### E-Mail
+Zur Kontoanmeldung/-anmeldung und Benutzerfeedback-Kommunikation verwendet, und wir werden sie nicht an Dritte weitergeben. Wir sammeln keine anderen persönlichen Informationen.
 
 Alle Anfragen des Benutzers werden lediglich an die OPEN AI API weitergeleitet, ohne dass dabei Aufzeichnungen oder Speicherungen vorgenommen werden.
 
