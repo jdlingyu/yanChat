@@ -2,7 +2,9 @@
 Chat Assistant (referred to as "App") is developed and maintained by lingyu0. We are deeply aware of the importance of protecting personal information and privacy while providing users with a good user experience.
 
 #### Personal Information
-We do not collect personal information, and we will not disclose any personal information provided by users for feedback to third parties.
+##### Email
+Used for account registration/login and user feedback communication, we will not disclose to third parties. 
+We do not collect any other personal information.
 
 Any user request content is only forwarded to the OPEN AI API and no records or information are saved.
 
